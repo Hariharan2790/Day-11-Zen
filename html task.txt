@@ -1,0 +1,62 @@
+HTML Task to know usage of basic tags.
+1. Fix the bugs in below snippet
+    <html lang="en">
+    <head>
+        <title>Document
+            <body>
+                guvi
+        </title>
+    </head>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+
+Answer:
+<html lang="en">
+    <head>
+        <title>Document 
+          guvi
+        </title>
+    </head>
+<body>
+    <h1>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        </h1>
+            <p>
+                Guvi Geek Network
+            </p>
+        </body>
+    </html>
+
+
+2.Try the below one
+<html lang="en">
+    <head>
+        <title>Document
+            
+                guvi
+    </head>
+<body>
+    <h1>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <h1>
+            <p>
+                Guvi Geek Network
+            </p>
+        </body>
+    </html>
+
+
+5.Create an element that helps you to open the https://google.com in separate new tab.
+
+Answer :
+<p><a href="https://google.com" target="_blank">google</a></p>
+
+
+
+
